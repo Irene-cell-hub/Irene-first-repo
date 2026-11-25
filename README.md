@@ -41,7 +41,7 @@ Strict adherence to HIPAA-compliant communication standards, patient confidentia
 * **[Scheduling SOP](https://github.com/Irene-cell-hub/Irene-first-repo/blob/7083809123b703a9de37ea084c1b3c97fd7c7cda/Scheduling-sop.md)**
 
 
-* **[SOAP Note Template](https://github.com/Irene-cell-hub/Irene-first-repo/blob/2ffa577585c480a48ae80ae0fc834b435ba248e1/Soap-note-template.md)***
+* **[SOAP Note Template](https://github.com/Irene-cell-hub/Irene-first-repo/blob/2ffa577585c480a48ae80ae0fc834b435ba248e1/Soap-note-template.md)**
 
 
 ## Contact & Availability
