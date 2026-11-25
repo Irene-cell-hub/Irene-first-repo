@@ -14,3 +14,8 @@ Multi-timezone appointment management, patient onboarding forms, insurance verif
 
 - Privacy & Compliance: 
 Strict adherence to HIPAA-compliant communication standards, patient confidentiality, and secure data handling.
+
+## Certifications & Credentials
+
+* **[HIPAA Compliance Certificate](https://github.com/Irene-cell-hub/Irene-first-repo/blob/95654b09520e9de6e3e3415048a1fda1714246d5/HIPAA%20Compliance%20Certificate.jpg)**
+  
