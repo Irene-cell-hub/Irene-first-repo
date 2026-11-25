@@ -1,6 +1,6 @@
 Medical Virtual Assistant & Telehealth Portfolio
 
-Welcome! I am a Registered Nurse and experienced Telehealth & Healthcare Operations Specialist. This repository showcases standardized workflows, administrative templates, and patient care coordination resources designed for remote healthcare support and medical virtual assistance.
+Welcome! I am a United States (New Mexico Board of Nursing) Registered Nurse and experienced medical virtual assistant , Telehealth & Healthcare Operations Specialist. This repository showcases standardized workflows, administrative templates, and patient care coordination resources designed for remote healthcare support and medical virtual assistance.
 
 Core Competencies
 - Telehealth & Virtual Triage:
