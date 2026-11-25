@@ -33,3 +33,6 @@ Strict adherence to HIPAA-compliant communication standards, patient confidentia
 
 
 * **[Medical Virtual Assistant Checklist](https://github.com/Irene-cell-hub/Irene-first-repo/blob/e2bacc9f3a610bdfd63e99c72a69716fea804307/Medical%20Virtual%20Assistant%20Checklist)**
+
+
+* **[Scheduling SOP](https://github.com/Irene-cell-hub/Irene-first-repo/blob/7083809123b703a9de37ea084c1b3c97fd7c7cda/Scheduling-sop.md)**
