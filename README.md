@@ -30,3 +30,6 @@ Strict adherence to HIPAA-compliant communication standards, patient confidentia
 
 
 * **[Certified Electronic Health Records Specialist Certificate](https://github.com/Irene-cell-hub/Irene-first-repo/blob/1879b3417f59e4960341afe25456735e20aef9ba/Certified%20Electronic%20Health%20Records%20Specialist%20Certificate.jpg)**
+
+
+* **[Medical Virtual Assistant Checklist](https://github.com/Irene-cell-hub/Irene-first-repo/blob/e2bacc9f3a610bdfd63e99c72a69716fea804307/Medical%20Virtual%20Assistant%20Checklist)**
