@@ -1,0 +1,26 @@
+Medical Virtual Assistant Checklist 
+
+1. Identity & Compliance Verification
+- Verify patient's full legal name and Date of Birth (two-identifier check).
+
+- Confirm current physical location (required for telehealth licensing and emergency dispatch).
+
+- ⁠Verify active phone number and emergency contact details.
+
+- Confirm informed consent for telehealth services is signed and on file.
+
+
+1. Clinical Intake & Symptom Screening
+- Chief Complaint (CC): Document primary reason for visit in the patient's own words.
+- Onset & Duration: Record when symptoms started, frequency, and severity (1–10 scale).
+- Red Flag Triage Screen: Screen immediately for emergency symptoms (chest pain, shortness of breath, sudden weakness/slurred speech, severe bleeding, acute suicidal ideation).
+
+  - Escalation Protocol: If any red flag is present, follow clinic emergency protocol and notify the supervising provider immediately.
+- Current Medications & Allergies: Reconcile active prescriptions, OTC medications, supplements, and known drug/food allergies.
+- Recent Vitals (if available): Record patient-reported blood pressure, heart rate, temperature, oxygen saturation, or blood glucose.
+
+3. Administrative & Pre-Visit Readiness
+- Confirm insurance coverage or self-pay status prior to consultation.
+- Verify preferred pharmacy name, address, and phone number for e-prescribing.
+- Test audio/video connection readiness and provide troubleshooting link if needed.
+- Place chart in the provider's virtual waiting queue with intake notes attached.
