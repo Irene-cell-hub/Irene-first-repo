@@ -27,3 +27,6 @@ Strict adherence to HIPAA-compliant communication standards, patient confidentia
 
 
 * **[Basic Life Support Certificate](https://github.com/Irene-cell-hub/Irene-first-repo/blob/68429c9cb52627ff2ba4cc0ecc694af7f2bf9cc1/Basic%20Life%20Support%20Certificate%20.jpg)**
+
+
+* **[Certified Electronic Health Records Specialist Certificate](https://github.com/Irene-cell-hub/Irene-first-repo/blob/1879b3417f59e4960341afe25456735e20aef9ba/Certified%20Electronic%20Health%20Records%20Specialist%20Certificate.jpg)**
