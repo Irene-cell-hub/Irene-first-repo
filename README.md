@@ -22,3 +22,6 @@ Strict adherence to HIPAA-compliant communication standards, patient confidentia
 
 * **[Coaching Health and Wellness Certificate](https://github.com/Irene-cell-hub/Irene-first-repo/blob/f41af936599e99e26a38f5290ee7cc24e49b8772/Coaching%20Health%20and%20Wellness%20Certificate%20.jpg)**
 
+
+* **[Telehealth for Healthcare Providers Certificate](https://github.com/Irene-cell-hub/Irene-first-repo/blob/0e6e9cea6661e5f192f10fe0402db4693e09f213/Telehealth%20for%20Healthcare%20Providers%20Certificate.jpg)**
+
