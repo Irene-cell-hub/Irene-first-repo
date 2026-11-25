@@ -25,3 +25,5 @@ Strict adherence to HIPAA-compliant communication standards, patient confidentia
 
 * **[Telehealth for Healthcare Providers Certificate](https://github.com/Irene-cell-hub/Irene-first-repo/blob/0e6e9cea6661e5f192f10fe0402db4693e09f213/Telehealth%20for%20Healthcare%20Providers%20Certificate.jpg)**
 
+
+* **[Basic Life Support Certificate](https://github.com/Irene-cell-hub/Irene-first-repo/blob/68429c9cb52627ff2ba4cc0ecc694af7f2bf9cc1/Basic%20Life%20Support%20Certificate%20.jpg)**
